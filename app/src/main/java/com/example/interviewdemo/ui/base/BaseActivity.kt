@@ -27,7 +27,7 @@ import com.example.interviewdemo.utils.Constants
 
 /**
  * base class for all activities
- *created by Bhanu Prakash Joshi
+ *created by Manvi Ameta
  * Feb 2023
  * */
 abstract class BaseActivity : AppCompatActivity() {
@@ -39,7 +39,7 @@ abstract class BaseActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         mDataBinding = DataBindingUtil.setContentView(this, setActivityLayout())
         initialize(savedInstanceState)
-        setActionBarLogo("Dr. Drive")
+        setActionBarLogo("DriveAngel")
     }
 
     /**

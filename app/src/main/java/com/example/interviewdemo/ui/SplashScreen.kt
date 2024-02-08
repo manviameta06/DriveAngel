@@ -15,7 +15,7 @@ import com.google.android.material.tabs.TabLayoutMediator
 
 /**
  * Splash activity with lottie animation
- *created by Bhanu Prakash Joshi
+ *created by Manvi Ameta
  * Feb 2023
  * */
 

@@ -1,9 +1,9 @@
 <resources>
-    <string name="app_name">Dr. Drive</string>
-    <string name="dr_drive">Dr. Drive</string>
+    <string name="app_name">DriveAngel</string>
+    <string name="dr_drive">DriveAngel</string>
     <string name="skip">Skip</string>
     <string name="next">Next</string>
-    <string name="title_onboarding_1">Welcome to Dr. Drive App !</string>
+    <string name="title_onboarding_1">Welcome to DriveAngel App !</string>
     <string name="description_onboarding_1">A one stop solution for your 360 degree car care. Dr. \'D\' is committed to serve the patient car and provide world class care</string>
 
     <string name="title_onboarding_2">Your struggle is Dr. D\'s now</string>

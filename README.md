@@ -1,7 +1,7 @@
-# dr_drive_android_app
-Dr. Drive android mobile app (Kotlin)
+# DriveAngel_android_app
+DriveAngel android mobile app (Kotlin)
 
-About: Dr. Drive is one stop solution for all your drive needed be it general service or your drive being stalled middle of nowhere.
+About: DriveAngel is one stop solution for all your drive needed be it general service or your drive being stalled middle of nowhere.
 Further, features like PUC, Insurance and Old car selling will be added.
 
 Implementations :

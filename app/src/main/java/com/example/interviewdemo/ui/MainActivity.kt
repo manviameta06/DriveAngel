@@ -22,7 +22,7 @@ import dagger.hilt.android.AndroidEntryPoint
 
 /**
  * Main activity :
- * created by Bhanu Prakash Joshi
+ * created by Manvi Ameta
  * Feb 2023
  * */
 

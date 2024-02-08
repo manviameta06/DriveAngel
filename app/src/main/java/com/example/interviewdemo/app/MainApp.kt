@@ -7,7 +7,7 @@ import dagger.hilt.android.HiltAndroidApp
 
 /**
  * Hilt Application class
- * Created by Bhanu Prakash Joshi
+ * Created by Manvi Ameta
  * Hilt implementation for DI
  */
 @HiltAndroidApp
