@@ -16,4 +16,4 @@ Implementations :
 8. Navigation fragments
 9. Constraint layout
 
-![dr driv screenshots](https://user-images.githubusercontent.com/120588983/222682424-8beaa378-7b97-4cc3-8110-1ee9343c9834.png)
+
